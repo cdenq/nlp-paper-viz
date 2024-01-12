@@ -28,6 +28,8 @@ This is an image-gallery-based demo of a full-stack app that I am creating for D
 
 Only images of this app's UI and examples of visualizations have been cleared for public release (hence, the image-gallery-based demo). The data used in this platform is open-source and public (including any aggregate insights derived from using this data), but the developed codebase itself is not yet cleared. This repo contains no code and is purely meant to showcase what this product looks like from a high-level, end-user perspective.
 
+[This project was spotlighted](https://www.navsea.navy.mil/Media/News/Article/3642325/nswc-crane-electro-optics-technology-experts-leverage-nsin-x-force-tool-to-enha/) for outstanding impact by the Naval Sea Systems Command (NAVSEA), which is the parent organization of NSWC: Crane.
+
 <!-- Header -->
 <a name="exe-sum"></a>
 # Executive Summary
