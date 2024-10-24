@@ -79,7 +79,7 @@ This graph plots the network cooccurence of keywords across queries.
 <a name="contact"></a>
 # Contact
 
-If you wish to contact me, Christopher Denq, please reach out via [LinkedIn](https://www.linkedin.com/in/christopherdenq/).
+If you wish to contact me, please reach out via [LinkedIn](https://www.linkedin.com/in/cdenq/).
 
 If you're curious about more projects, check out my [website](https://cdenq.github.io/) or [GitHub](https://github.com/cdenq).
 
